@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Text Me One';
+    src: url('TextMeOne-Regular.eot');
+    src: url('TextMeOne-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TextMeOne-Regular.woff2') format('woff2'),
+        url('TextMeOne-Regular.woff') format('woff'),
+        url('TextMeOne-Regular.ttf') format('truetype'),
+        url('TextMeOne-Regular.svg#TextMeOne-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

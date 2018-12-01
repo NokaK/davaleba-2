@@ -1,0 +1,40 @@
+section {
+	margin: 100px auto;
+	width: 1170px;
+}
+h1 {
+	font-size: 24px;
+	color: #000;
+}
+.d-inline-block{
+	display: inline-block;
+}
+.box {
+	background: #F2F2F2;
+	padding: 20px 15px;
+	width: 570px;
+	margin-top: 30px;
+}
+.box:last-child{
+	margin-left: 20px;
+}
+.image {
+	height: 130px;
+	vertical-align: top;
+}
+h3{
+	font-family: "Mtavruli", sans-serif;
+}
+.text {
+	width: 350px;
+	margin-left: 30px;
+/*	font-family: "BPG Ingiri Arial", sans-serif;*/
+	font-family: 'Text Me One', sans-serif;
+}
+.line {
+	height: 30px;
+	width: 1px;
+	background: red;
+	vertical-align: middle;
+	margin: 0 10px;
+}
